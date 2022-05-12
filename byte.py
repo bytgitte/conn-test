@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2021/5/12 上午12:58
-# @Email   : recruits@bytedance.com
+@Time    : 2021/5/12 上午12:58
+@Email   : recruits@bytedance.com
 
 import hashlib,time,requests,os
 import random,ssl,getopt,queue
